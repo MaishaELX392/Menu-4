@@ -126,7 +126,8 @@ body {
 
 .submenu .has-submenu:hover > .sub-submenu {
     visibility: visible;
-    opacity: 1;
+
+    
 }
 
 .submenu .has-submenu > a {
